@@ -1,3 +1,6 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
+
 **base /**
 [Readme](https://cosmic.plus/#view:js-base)
 • [Contributing](https://cosmic.plus/#view:js-base/CONTRIBUTING)
